@@ -1,0 +1,27 @@
+.nameSize{
+    font-size: 200%;
+    text-align: center;
+}
+
+h1:hover {
+    background-color: brown;
+}
+
+h1{
+    text-align: center;
+    font-size: 500%;
+}
+
+.nameSize:hover{
+    background-color: goldenrod;
+}
+
+img{
+    border-radius: 100%;
+    background-color: brown;
+}
+
+#centre{
+    margin-left: 18%;
+    
+}
